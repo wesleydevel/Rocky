@@ -1,3 +1,3 @@
 # Rocky
--application for study .net core using entity.
--simple app.
+- application for study .net core using entity.
+- simple app.
